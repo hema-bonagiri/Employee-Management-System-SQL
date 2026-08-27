@@ -59,7 +59,7 @@ Primary and Foreign Key relationships enable analysis across these HR data domai
 
 The ER diagram illustrates the database entities and relationships used in the project.
 
-"Employee Management System ER Diagram" (ER_Diagram.png)
+![Employee Management System ER Diagram](./ER_Diagram.png)
 
 ---
 
@@ -67,7 +67,7 @@ The ER diagram illustrates the database entities and relationships used in the p
 
 The project uses SQL to answer practical HR and business questions, including:
 
-👥 Workforce Analysis
+👥 Employee Workforce Analysis
 
 - Which departments have the highest number of employees?
 - Which departments have the largest workforce?
@@ -181,6 +181,3 @@ These insights can support HR reporting, workforce planning, compensation analys
 Hema Bonagiri
 
 Aspiring Data Analyst | SQL | Python | Excel | Power BI
-
-- GitHub: "hema-bonagiri" (https://github.com/hema-bonagiri)
-- LinkedIn: "Hema Bonagiri" (https://www.linkedin.com/in/hema-bonagiri/)
